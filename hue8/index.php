@@ -23,10 +23,10 @@
 </head>
 <body class="container">
 
-		<h1>Liste</h1>
+		<h1>Listen</h1>
 
-		<span id="newLi" class="glyphicon glyphicon-plus"></span>
-		<span id="deleteLi" class="glyphicon glyphicon-minus"></span>
+		<span id="newLi" class="glyphicon glyphicon-plus"> Neu</span> <p>
+		<span id="deleteLi" class="glyphicon glyphicon-minus"> Löschen</span>
 		 <ul id="liste">
 		 	<li class="item">Item</li>
 		 	<li class="item">Item</li>
